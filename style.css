@@ -4,7 +4,7 @@
 }
 .main_div{
     display: flex;
-    background-color: aqua;
+    background-color: rgb(114, 243, 243);
     
 }
 .heading-title{
@@ -50,7 +50,7 @@
 .six-div{
     
     background-size: 40px;
-    background-color: rgb(163, 107, 216);
+    background-color: rgb(198, 170, 224);
     padding-top: 25vh;
     /* position: absolute; */
 border-top-left-radius: 160px;
@@ -60,7 +60,7 @@ border-top-right-radius: 160px;
 .seven-div{
     
     background-size: 40px;
-    background-color: rgb(163, 107, 216);
+    background-color: rgb(235, 170, 210);
     padding-top: 25vh;
     /* position: absolute; */
 border-top-left-radius: 160px;
@@ -70,7 +70,7 @@ border-top-right-radius: 160px;
 .eight-div{
     
     background-size: 40px;
-    background-color: rgb(163, 107, 216);
+    background-color: rgb(164, 230, 230);
     padding-top: 25vh;
     /* position: absolute; */
 border-top-left-radius: 160px;
@@ -80,7 +80,7 @@ border-top-right-radius: 160px;
 .nine-div{
     display: flex;
 
-    background-color: aquamarine;
+    background-color: rgb(242, 243, 243);
     
     justify-content: space-around;
     padding: 20px;
@@ -107,7 +107,24 @@ border-top-right-radius: 160px;
     /* padding: 50px; */
     /* size: 10px; */
 }
+.twelve-div{
+    color: blueviolet;
+
+}
+
+.thirteen-div{text-align: center;
+    background-color: black;
+    color: white;
+    margin-bottom: 100px;
+    padding: 40px;
+}
 
 
+.last-line{
+    color: rgb(102, 99, 99);
+}
 
+.span-color{
+    color: rgba(245, 6, 46, 0.795);
+    font-size:70px;
 }
