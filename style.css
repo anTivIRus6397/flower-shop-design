@@ -1,6 +1,7 @@
 
 *{
     /* color: chartreuse; */
+  font-family: sans-serif;
     
 }
 #bismillah{
@@ -8,7 +9,10 @@
     color: aqua;
     text-decoration: underline;
     
-    
+    main{
+        font-family: 'Lato', sans-serif;
+        font-family: 'Open Sans', sans-serif;
+    }
 
 
 }
@@ -44,7 +48,8 @@
     justify-content: center;
     background-color: rgb(206, 200, 206);
     margin: 80px;
-    padding-bottom: 10px
+    padding: 10px
+    
     ;
  }
 .fifth-div{
@@ -110,33 +115,43 @@ border-top-right-radius: 160px;
     text-align: center;
 }
 .eleven-div{
-    height: 300px;
-    /* font-weight: 5px; */
-    width: 40px;
-
     display: flex;
-    /* width: 200px; */
-    /* height: 250px; */
-    /* justify-content: space-between; */
-    gap: 10px;
-    /* margin-left: 90px; */
-    /* margin-right: 90px; */
-    /* padding: 50px; */
-    /* size: 10px; */
-    /* width: 220px; */
-    /* height: 180px; */
-    margin: 10px 100px 100px 100px;
-    /* background-color: aliceblue; */
-}
-
+    align-items: center;
+    justify-items: auto;
+    padding: 20px 50px 20px 20px;
+    margin-left: 80px;
+   margin-right:80px ;
 }
 
 
-.twelve-div{
-    color: blueviolet;
 
+
+
+#problem{
+    
+    text-align: center;
+    justify-items: center;
+    color: rgb(4, 255, 37);
+    margin-top: 30px;
+    padding-top: 60px;
+    font-size: larger;
+    /* background-color: blue; */
+    
+    /* background-image: url('../flower-shop-design/Rectangle\ 9.png'); */
+    
 }
-
+.section{
+    background-image: url('../Rectangle.png');
+    background-position: cover;
+    height: 300px;
+    justify-content: center;
+    margin:35px 90px 50px 90px
+    
+}
+.form-class{
+    box-sizing: border-box 25px;
+  
+}
 .thirteen-div{text-align: center;
     background-color: black;
     color: white;
@@ -161,12 +176,18 @@ border-top-right-radius: 160px;
     color:rgb(5, 51, 82)
     font-style: italic;
     border-width: 15px;
-    
-    
+       
 }
 
+.email-box{
+    font-size: 25px;
+}
+.button-new{
+    size: 50px;
+}
 .last-line{
     color: rgb(102, 99, 99);
+    font-size: small;
 }
 
 .span-color{
