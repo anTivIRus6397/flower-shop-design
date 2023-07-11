@@ -142,9 +142,9 @@ border-top-right-radius: 160px;
 }
 .section{
     background-image: url('../Rectangle.png');
-    /* background-position:; */
+    /* background-position:auto; */
     height: 300px;
-    width: -70px;
+    /* width: -70px; */
     justify-content: center;
     padding: 40px;
     margin:35px 90px 60px 90px
