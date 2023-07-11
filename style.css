@@ -1,6 +1,7 @@
 
 *{
     /* color: chartreuse; */
+    
 }
 .main_div{
     display: flex;
@@ -29,7 +30,7 @@
  }
  .forth-div{
     text-align: center;
-    background-color: rgb(164, 211, 211);
+    background-color: rgb(196, 177, 195);
     margin: 100px;
     padding-bottom: 20px
     ;
@@ -97,16 +98,28 @@ border-top-right-radius: 160px;
     text-align: center;
 }
 .eleven-div{
+    height: 300px;
+    /* font-weight: 5px; */
+    width: 40px;
+
     display: flex;
-    width: 350px;
-    height: 400px;
+    /* width: 200px; */
+    /* height: 250px; */
     /* justify-content: space-between; */
-    gap: 30px;
-    margin-left: 90px;
-    margin-right: 90px;
+    gap: 50px;
+    /* margin-left: 90px; */
+    /* margin-right: 90px; */
     /* padding: 50px; */
     /* size: 10px; */
+    /* width: 220px; */
+    /* height: 180px; */
+    margin: 10px 100px 100px 100px;
+    /* background-color: aliceblue; */
 }
+
+}
+
+
 .twelve-div{
     color: blueviolet;
 
@@ -119,6 +132,25 @@ border-top-right-radius: 160px;
     padding: 40px;
 }
 
+.forthin-div{
+    background-color: rgb(27, 4, 4);
+    /* margin-left: 50px; */
+    /* margin-right: 50px; */
+    margin: 20px 80px 20px 80px;
+    
+    color: white;
+    text-align: center;
+    border-top-left-radius: 160px;
+    border-top-right-radius: 160px;
+    
+
+}
+.button-two{
+    color:rgb(5, 51, 82)
+    font-style: italic;
+    border-width: 15px;
+    
+}
 
 .last-line{
     color: rgb(102, 99, 99);
