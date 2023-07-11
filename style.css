@@ -3,6 +3,15 @@
     /* color: chartreuse; */
     
 }
+#bismillah{
+    text-align: center;
+    color: aqua;
+    text-decoration: underline;
+    
+    
+
+
+}
 .main_div{
     display: flex;
     background-color: rgb(114, 243, 243);
@@ -14,7 +23,7 @@
 }
 .second-div{
     margin: auto;
-    padding-left: 70px;
+    padding-left: 80px;
     font-weight: 30px;
 }
 .button{
@@ -26,13 +35,14 @@
  .third-div{
     size: 5px;
     margin-bottom: -4px;
-    padding:100px 70px 0px 20px;
+    padding:100px 80px 0px 20px;
  }
  .forth-div{
     text-align: center;
-    background-color: rgb(196, 177, 195);
-    margin: 100px;
-    padding-bottom: 20px
+    justify-content: center;
+    background-color: rgb(206, 200, 206);
+    margin: 80px;
+    padding-bottom: 10px
     ;
  }
 .fifth-div{
@@ -106,7 +116,7 @@ border-top-right-radius: 160px;
     /* width: 200px; */
     /* height: 250px; */
     /* justify-content: space-between; */
-    gap: 50px;
+    gap: 10px;
     /* margin-left: 90px; */
     /* margin-right: 90px; */
     /* padding: 50px; */
