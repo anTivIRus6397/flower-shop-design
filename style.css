@@ -142,14 +142,17 @@ border-top-right-radius: 160px;
 }
 .section{
     background-image: url('../Rectangle.png');
-    background-position: cover;
+    /* background-position:; */
     height: 300px;
+    width: -70px;
     justify-content: center;
-    margin:35px 90px 50px 90px
+    padding: 40px;
+    margin:35px 90px 60px 90px
+    
     
 }
-.form-class{
-    box-sizing: border-box 25px;
+/* .form-class{ */
+    box-sizing: border-box 2px;
   
 }
 .thirteen-div{text-align: center;
@@ -180,7 +183,7 @@ border-top-right-radius: 160px;
 }
 
 .email-box{
-    font-size: 25px;
+    font-size: 20px;
 }
 .button-new{
     size: 50px;
