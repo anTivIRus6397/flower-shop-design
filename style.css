@@ -25,11 +25,13 @@
     margin: auto;
     padding-left: 80px;
     font-weight: 30px;
+    text-align: center;
 }
 .button{
     color:white
     font-style: italic;
     border-width: 15px;
+    
  }
 
  .third-div{
@@ -159,6 +161,7 @@ border-top-right-radius: 160px;
     color:rgb(5, 51, 82)
     font-style: italic;
     border-width: 15px;
+    
     
 }
 
